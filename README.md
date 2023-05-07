@@ -2,9 +2,9 @@
 
 * [Website Multilingual Documenta](https://github.com/xxai-doc)
 
-Codicis anterioris-finis paginae aperta est fons, salve ad auxilium optimize translationis
+In fronte codicis paginae paginae aperta est fons, grata ope translationis optimize
 
-* [ante-finem codice](https://github.com/xxai-art/web)
+* [Frontend Code](https://github.com/xxai-art/web)
 * [Lingua sarcinas pro situ totum](https://github.com/xxai-art/web/tree/main/i18n)
 * [Linguae sarcinae pro login modules](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Website Multilingual Documenta](https://github.com/xxai-doc)
