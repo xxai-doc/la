@@ -2,9 +2,29 @@
 
 # xxAI.art
 
-Codicis anterioris-finis paginae aperta est fons, salve ad auxilium optimize translationis
+Pars paginae paginae fons aperta est, grata ope translationis optimize.
+
+## ante-finem codice
 
 * [ante-finem codice](https://github.com/xxai-art/web)
 * [Lingua sarcinas pro situ totum](https://github.com/xxai-art/web/tree/main/i18n)
 * [Linguae sarcinae pro login modules](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Website Multilingual Documenta](https://github.com/xxai-doc)
+
+Ante-finem programmatio linguae [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) est, quae nonnullas notas addit in syntaxi coffeescripte, vide [./coffee_plus.md](./coffee_plus.md) .
+
+## Internationalization of websites and documents
+
+Aedificare in sequentibus III projects
+
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+
+  Suffixum est `.mdt` , syntaxi similis uti potes `<+ ./coffee_plus/import.js>` ad lima externa referre, et notam generare cum suffixo `.md` .
+
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+
+  Markdown translatio non codicibus et nexus transferet, et sententias interpretabitur. Si translatio mutata est sed textus originalis non modificatur, iterum exsequens modificationem translationis non scribet.
+
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+
+  Lima linguae in translatione `yaml` generatae websites.

@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , nonnullas notas adde ex syntaxi coffeescripte , vide [coffee_plus](./coffee_plus.md) .
 
-* annuntiate variabilis
+## annuntiate variabilis
 
 ```
 + var1, var2
 ```
 
-* declaratio titulus
+## declaratio titulus
 
 `:$` Usus est apud [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* velox import
+## velox import
 
 ```
 > zx/globals:
